@@ -6,22 +6,22 @@ import { FaMoneyCheck } from "react-icons/fa"
 export const StatsData = [
   {
     icon: <GiEarthAmerica style={{ color: "#f3a82e" }} />,
-    tittle: "Over 100 Destinations",
-    desc: "Travel to over 100 unique places",
+    tittle: "Variedad de Propiedades",
+    desc: "Encuentra departamentos, casas y locales comerciales que se adaptan a tus necesidades.",
   },
   {
     icon: <MdAirplanemodeActive style={{ color: "#047bf1" }} />,
-    tittle: "Over 100 Destinations",
-    desc: "Travel to over 100 unique places",
+    tittle: "Materiales de Calidad",
+    desc: "Ofrecemos cristales y vidrios de alta resistencia, además de otros insumos para la construcción.",
   },
   {
     icon: <MdTimer style={{ color: "#f34f2e" }} />,
-    tittle: "Over 100 Destinations",
-    desc: "Travel to over 100 unique places",
+    tittle: "Rapidez y Eficiencia",
+    desc: "Atención ágil y entrega puntual en todos nuestros servicios y productos.",
   },
   {
     icon: <FaMoneyCheck style={{ color: "#3af576" }} />,
-    tittle: "Over 100 Destinations",
-    desc: "Travel to over 100 unique places",
+    tittle: "Planes de Pago Flexibles",
+    desc: "Facilidades de pago y opciones personalizadas para que concretes tus proyectos.",
   },
 ]

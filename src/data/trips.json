@@ -1,26 +1,26 @@
 [
   {
-    "img": "../assets/images/city1.jpg",
-    "alt": "Tian Tan Buddha",
-    "name": "Tian Tan Buddha",
-    "button": "View Destination"
+    "img": "../assets/images/depa.jpg",
+    "alt": "Saltillo, Coahuila",
+    "name": "Renta de Departamentos",
+    "button": "Ver Más"
   },
   {
-    "img": "../assets/images/city2.jpg",
-    "alt": "Tian Tan Buddha",
-    "name": "Tian Tan Buddha",
-    "button": "View Destination"
+    "img": "../assets/images/sobre.jpg",
+    "alt": "Saltillo, Coahuila",
+    "name": "Nuestras oficinas",
+    "button": "Más Información"
   },
   {
-    "img": "../assets/images/city3.jpg",
-    "alt": "Tian Tan Buddha",
-    "name": "Tian Tan Buddha",
-    "button": "View Destination"
+    "img": "../assets/images/vidrio.jpg",
+    "alt": "Fabrica Proximante...",
+    "name": "Trabajos Sobre Vidrio",
+    "button": "Más Información"
   },
   {
-    "img": "../assets/images/city4.jpg",
-    "alt": "Tian Tan Buddha",
-    "name": "Tian Tan Buddha",
-    "button": "View Destination"
+    "img": "../assets/images/random.jpg",
+    "alt": "Saltillo, Coahuila",
+    "name": "Mas Variedad",
+    "button": "Conoce Más"
   }
 ]

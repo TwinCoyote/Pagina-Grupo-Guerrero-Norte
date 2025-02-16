@@ -29,8 +29,8 @@ const Testimonials = () => {
 
   return (
     <TestimonialsContainer>
-      <TopLine>Testimonials</TopLine>
-      <Description>What People Are Sayig</Description>
+      <TopLine>Testimonios</TopLine>
+      <Description>Lo Que Dicen Nuestros Clientes</Description>
       <ContentWrapper>
         <ColumnOne>
           <Testimonial>
@@ -41,10 +41,10 @@ const Testimonials = () => {
                 margin-bottom: 1rem;
               `}
             />
-            <h3>Sean Michaels</h3>
+            <h3>María López</h3>
             <p>
-              "I love the way this site looks and feels. It's easy to navigate
-              and provides a great user experience."
+              "Gracias a GrupoGN, encontré el departamento ideal. Excelente
+              servicio y atención."
             </p>
           </Testimonial>
           <Testimonial>
@@ -55,9 +55,10 @@ const Testimonials = () => {
                 margin-bottom: 1rem;
               `}
             />
-            <h3>Sara king</h3>
+            <h3>Carlos Sánchez</h3>
             <p>
-              "I love the way this site looks and feels. It's easy to navigate
+              "Me ayudaron con la renta de un local comercial, muy rápidos y
+              eficientes."
             </p>
           </Testimonial>
         </ColumnOne>
@@ -75,7 +76,7 @@ export default Testimonials
 
 const TestimonialsContainer = styled.div`
   width: 100%;
-  background: #fcfcfc;
+  background: rgba(241, 235, 235, 0.32);
   color: #000;
   padding: 5rem calc((100vw - 1300px) / 2);
   height: 100%;

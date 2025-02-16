@@ -7,31 +7,30 @@ const Footer = () => {
     <FooterContainer>
       <FooterLinksWrapper>
         <FooterDesc>
-          <h1>Explorix</h1>
-          <p>Explore the world of technology and innovation.</p>
+          <h1>Grupo GN</h1>
+          <p>Construyendo espacios y soluciones a tu medida.</p>
         </FooterDesc>
         <FooterLinkItems>
-          <FooterLinkTittle>Contact us</FooterLinkTittle>
+          <FooterLinkTittle>Contactanos</FooterLinkTittle>
           <FooterLink to="/about">Contacto</FooterLink>
-          <FooterLink to="/Support">Support</FooterLink>
-          <FooterLink to="/Destinations">Destinations</FooterLink>
-          <FooterLink to="/Sponsorships">Sponsorships</FooterLink>
+          <FooterLink to="/Support">Soporte</FooterLink>
+          <FooterLink to="/Destinations">Cotizaciones</FooterLink>
+          <FooterLink to="/Sponsorships">Ubicaciones</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
       <FooterLinksWrapper>
         <FooterLinkItems>
-          <FooterLinkTittle>videos</FooterLinkTittle>
-          <FooterLink to="/">Contacto</FooterLink>
-          <FooterLink to="/">Support</FooterLink>
-          <FooterLink to="/">Destinations</FooterLink>
-          <FooterLink to="/">Sponsorships</FooterLink>
+          <FooterLinkTittle>Productos</FooterLinkTittle>
+          <FooterLink to="/">Materiales de Construccion</FooterLink>
+          <FooterLink to="/">Accesorios para el Hogar</FooterLink>
+          <FooterLink to="/">Proximos Productos</FooterLink>
         </FooterLinkItems>
         <FooterLinkItems>
-          <FooterLinkTittle>Social Media</FooterLinkTittle>
-          <FooterLink to="/">Contacto</FooterLink>
-          <FooterLink to="/">Support</FooterLink>
-          <FooterLink to="/">Destinations</FooterLink>
-          <FooterLink to="/">Sponsorships</FooterLink>
+          <FooterLinkTittle>Redes Sociales</FooterLinkTittle>
+          <FooterLink to="/">Facebook</FooterLink>
+          <FooterLink to="/">Instagram</FooterLink>
+          <FooterLink to="/">Linkedin</FooterLink>
+          <FooterLink to="/">WhatsApp</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
     </FooterContainer>

@@ -7,14 +7,15 @@ const Email = () => {
   return (
     <EmailContainer>
       <EmailContent>
-        <h1>Get Access to exclusive Offers</h1>
+        <h1>Accede a Ofertas Exclusivas</h1>
         <p>
-          Sign up for newsletter and receive the latest offers from our team.
+          Regístrate con tu correo y sé el primero en enterarte sobre
+          promociones en departamentos, cristales y más productos.
         </p>
         <form action="#">
           <FormWrap>
             <label htmlFor="email">
-              <input type="email" placeholder="Enter Your Email" id="email" />
+              <input type="email" placeholder="Ingresa Tu Correo" id="email" />
             </label>
             <Button
               as="button"
@@ -33,7 +34,7 @@ const Email = () => {
                 }
               `}
             >
-              Sign up
+              Suscribete
             </Button>
           </FormWrap>
         </form>

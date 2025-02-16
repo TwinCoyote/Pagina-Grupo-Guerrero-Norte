@@ -11,10 +11,10 @@ const Hero = () => {
       </HeroBg>
       <HeroContent>
         <HeroItems>
-          <HeroH1>UNREAL DESTINATIONS </HeroH1>
-          <HeroP> Out of this world </HeroP>
+          <HeroH1>IMPULSANDO EL FUTURO DEL NORTE </HeroH1>
+          <HeroP> Diversificamos para Crecer, Innovamos para Avanzar</HeroP>
           <Button primary="true" big="true" round="true" to="/trips">
-            Travel Now
+            Explorar Grupo Guerrero
           </Button>
         </HeroItems>
       </HeroContent>

@@ -79,23 +79,30 @@ const ProductsContainer = styled.div`
   color: #fff;
 `
 const ProductsHeading = styled.div`
-  font-size: clamp(1.2rem, 5vw, 3rem);
+  font-size: clamp(1.2rem, 3vw, 4rem);
+  font-weight: bold;
   text-align: center;
   margin-bottom: 5rem;
   color: #000;
+  @media screen and (max-width: 1200px) {
+    margin-bottom: -10rem;
+  }
 `
 const ProductWrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
   justify-content: center;
-  padding: 0 2rem;
 
   @media screen and (max-width: 1200px) {
     grid-template-columns: 1fr 1fr;
+    margin-top: 9rem;
+    padding: 1rem 6rem;
   }
-  @media screen and (max-width: 868px) {
+  @media screen and (max-width: 700px) {
     grid-template-columns: 1fr;
+    margin-top: 9rem;
+    padding: 1rem 6rem;
   }
 `
 
@@ -106,18 +113,26 @@ const ProductCard = styled.div`
   position: relative;
   border-radius: 10px;
   transition: 0.2s ease;
+
+  @media screen and (min-width: 1320px) {
+    aspect-ratio: 3/4;
+  }
 `
 
 const ProductImg = styled(Img)`
-  height: 100%;
+  height: 600px;
   max-width: 100%;
-  position: relative;
+  position: absolute;
   border-radius: 10px;
   filter: brightness(70%);
   transition: 0.4s cubic-bezier(0.075, 0.82, 0.165, 1);
+  margin: 5%;
 
   &:hover {
     filter: brightness(100%);
+  }
+  @media screen and (max-width: 1200px) {
+    height: 500px;
   }
 `
 
@@ -125,7 +140,8 @@ const ProductInfo = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 2rem;
+  padding: 0 3rem;
+  margin-left: 1rem;
 
   @media screen and (max-width: 280px) {
     padding: 0 1rem;
