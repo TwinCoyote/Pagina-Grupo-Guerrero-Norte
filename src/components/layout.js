@@ -1,7 +1,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Footer from "./Footer"
-import Header from "./Header"
+import Header from "./Header.js"
 import { GlobalStyles } from "./styles/GlobalStyles"
 
 const Layout = ({ children }) => {
