@@ -42,13 +42,14 @@ const HeroContainer = styled.div`
     bottom: 0;
     right: 0;
     left: 0;
+    cursor: default;
+    pointer-events: none;
     z-index: -1;
     background: linear-gradient(
-        180deg,
-        rgba(0, 0, 0, 0.1) 0%,
-        rgba(0, 0, 0, 0.1) 100%
-      ),
-      linear-gradient(180deg, rgba(0, 0, 0, 0.02) 0%, transparent 100%);
+      180deg,
+      rgba(0, 0, 0, 0.1) 0%,
+      rgba(0, 0, 0, 0.02) 100%
+    );
   }
 `
 
