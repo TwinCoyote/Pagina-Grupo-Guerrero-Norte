@@ -5,7 +5,7 @@ import { FaBars } from "react-icons/fa"
 import { menuData } from "../data/MenuData"
 import { Button } from "./Button"
 
-const Header = () => {
+const Header1 = () => {
   return (
     <Nav>
       <NavLink to="/">GRUPO GUERRERO DEL NORTE</NavLink>
@@ -25,7 +25,7 @@ const Header = () => {
     </Nav>
   )
 }
-export default Header
+export default Header1
 
 const Nav = styled.nav`
   background: transparent;
