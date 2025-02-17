@@ -109,7 +109,7 @@ const ProductWrapper = styled.div`
   }
   @media screen and (max-width: 390px) {
     grid-template-columns: 1fr;
-    margin-top: 9rem;
+    margin-top: 2rem;
     padding: 2rem;
   }
 `
