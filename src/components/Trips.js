@@ -87,6 +87,9 @@ const ProductsHeading = styled.div`
   @media screen and (max-width: 1200px) {
     margin-bottom: -10rem;
   }
+  @media screen and (max-width: 390px) {
+    margin-bottom: -2rem;
+  }
 `
 const ProductWrapper = styled.div`
   display: grid;
@@ -103,6 +106,11 @@ const ProductWrapper = styled.div`
     grid-template-columns: 1fr;
     margin-top: 9rem;
     padding: 1rem 6rem;
+  }
+  @media screen and (max-width: 390px) {
+    grid-template-columns: 1fr;
+    margin-top: 9rem;
+    padding: 2rem;
   }
 `
 
