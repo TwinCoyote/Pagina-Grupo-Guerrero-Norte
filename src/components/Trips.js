@@ -31,7 +31,7 @@ const Trips = ({ heading }) => {
     const tripsArray = []
     data.allTripsJson.edges.forEach((item, index) => {
       tripsArray.push(
-        <ProductCard key={index}>
+        <ProductCard key={index} id="Servicios">
           <div key={index}>
             <ProductImg
               src={item.node.img.childImageSharp.fluid.src}

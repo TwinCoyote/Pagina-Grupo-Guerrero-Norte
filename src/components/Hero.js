@@ -13,7 +13,7 @@ const Hero = () => {
         <HeroItems>
           <HeroH1>IMPULSANDO EL FUTURO DEL NORTE </HeroH1>
           <HeroP> Diversificamos para Crecer, Innovamos para Avanzar</HeroP>
-          <Button primary="true" big="true" round="true" to="/trips">
+          <Button primary="true" big="true" round="true" to="#Servicios">
             Explorar Grupo Guerrero
           </Button>
         </HeroItems>
