@@ -6,12 +6,7 @@ const Contacto1 = () => {
     <section className="contact" id="contacto1">
       <div className="content">
         <h2>Contáctanos</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        </p>
+        <p>Estemos en contacto, estamos aquí para ayudarte.</p>
       </div>
 
       <div className="container">

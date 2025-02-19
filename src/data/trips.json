@@ -10,21 +10,21 @@
     "img": "../assets/images/sobre.jpg",
     "alt": "Saltillo, Coahuila",
     "name": "Nuestras oficinas",
-    "to": "/Departamentos",
+    "to": "/Contacto",
     "button": "Más Información"
   },
   {
     "img": "../assets/images/vidrio.jpg",
     "alt": "Fabrica Proximante...",
     "name": "Trabajos Sobre Vidrio",
-    "to": "/Departamentos",
+    "to": "/Materiales",
     "button": "Más Información"
   },
   {
-    "img": "../assets/images/random.jpg",
+    "img": "../assets/images/police.jpg",
     "alt": "Saltillo, Coahuila",
-    "name": "Mas Variedad",
-    "to": "/Departamentos",
+    "name": "Seguridad",
+    "to": "/Ventas",
     "button": "Conoce Más"
   }
 ]

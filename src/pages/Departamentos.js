@@ -24,14 +24,13 @@ const DepartamentosList = ({ data }) => {
     <>
       <Layout>
         <HeroD />
+        <h2
+          className="text-center my-4 departamento-title"
+          id="departamentos-list"
+        >
+          Nuestros Departamentos
+        </h2>
         <Container>
-          <h2
-            className="text-center my-4 departamento-title"
-            id="departamentos-list"
-          >
-            Nuestros Departamentos
-          </h2>
-
           <Row className="g-4 justify-content-center">
             {data.departamentos.edges.map(({ node }) => {
               const departamento = departamentosData.find(
