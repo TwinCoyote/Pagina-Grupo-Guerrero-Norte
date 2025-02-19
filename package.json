@@ -11,6 +11,7 @@
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-manifest": "^5.14.0",
+    "gatsby-plugin-sass": "^6.14.0",
     "gatsby-plugin-sharp": "^5.14.0",
     "gatsby-plugin-styled-components": "^6.14.0",
     "gatsby-source-filesystem": "^5.14.0",
@@ -21,6 +22,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^5.4.0",
     "react-slick": "^0.30.3",
+    "sass": "^1.85.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^6.1.15"
   },
