@@ -25,8 +25,8 @@ const Header2 = () => {
           ))}
         </NavMenu>
         <NavBtn>
-          <Button primary="true" round="true" to="/trips">
-            Contactanos
+          <Button primary="true" round="true" to="/Contacto">
+            Contactanos!
           </Button>
         </NavBtn>
       </Nav>
@@ -40,8 +40,13 @@ const Header2 = () => {
           </MobileLink>
         ))}
         <MobileButtonWrapper>
-          <Button primary="true" round="true" to="/trips" onClick={toggleMenu}>
-            Contactanos
+          <Button
+            primary="true"
+            round="true"
+            to="/Contacto"
+            onClick={toggleMenu}
+          >
+            Contactanos!
           </Button>
         </MobileButtonWrapper>
       </MobileMenu>

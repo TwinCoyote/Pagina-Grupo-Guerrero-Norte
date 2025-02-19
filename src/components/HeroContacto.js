@@ -1,9 +1,9 @@
 import React from "react"
 import styled from "styled-components"
 import { Button } from "./Button"
-import Video from "../assets/videos/1.mp4"
+import Video from "../assets/videos/cityy.mp4"
 
-const HeroD = () => {
+const HeroC = () => {
   return (
     <HeroContainer>
       <HeroBg>
@@ -11,18 +11,12 @@ const HeroD = () => {
       </HeroBg>
       <HeroContent>
         <HeroItems>
-          <HeroH1>Encuentra Tu Departamento Ideal</HeroH1>
+          <HeroH1>¿Listo para dar el siguiente paso?</HeroH1>
           <HeroP>
-            Descubre una variedad de departamentos diseñados para adaptarse a
-            tus necesidades.
+            Contáctanos hoy y permítenos ser tu aliado en cada paso del camino.
           </HeroP>
-          <Button
-            primary="true"
-            big="true"
-            round="true"
-            to="#departamentos-list"
-          >
-            Ver Departamentos
+          <Button primary="true" big="true" round="true" to="#contacto1">
+            ¡Contactanos Ahora!
           </Button>
         </HeroItems>
       </HeroContent>
@@ -30,7 +24,7 @@ const HeroD = () => {
   )
 }
 
-export default HeroD
+export default HeroC
 
 const HeroContainer = styled.div`
   background: #f1f1f1;

@@ -14,6 +14,7 @@ const Trips = ({ heading }) => {
             alt
             button
             name
+            to
             img {
               childImageSharp {
                 fluid {
@@ -44,7 +45,7 @@ const Trips = ({ heading }) => {
                 <ProductTitle>{item.node.name}</ProductTitle>
               </TextWrap>
               <Button
-                to="/trips"
+                to={item.node.to} // Aquí utilizamos el valor de "to" del JSON
                 primary="true"
                 round="true"
                 css={`

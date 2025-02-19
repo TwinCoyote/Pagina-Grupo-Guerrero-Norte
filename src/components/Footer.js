@@ -27,10 +27,10 @@ const Footer = () => {
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTittle>Redes Sociales</FooterLinkTittle>
-          <FooterLink to="/">Facebook</FooterLink>
-          <FooterLink to="/">Instagram</FooterLink>
-          <FooterLink to="/">Linkedin</FooterLink>
           <FooterLink to="/">WhatsApp</FooterLink>
+          <FooterLink to="/">Facebook</FooterLink>
+          <FooterLink to="/">TikTok</FooterLink>
+          <FooterLink to="/">Instagram</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
     </FooterContainer>
