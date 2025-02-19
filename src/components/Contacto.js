@@ -33,7 +33,7 @@ const Contacto1 = () => {
             <div className="icon">📧</div>
             <div className="text">
               <h3>Correo</h3>
-              <p>prueba@prueba.com</p>
+              <p>contacto@grupogn.com</p>
             </div>
           </div>
         </div>

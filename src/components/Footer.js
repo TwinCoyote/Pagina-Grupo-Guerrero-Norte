@@ -12,18 +12,18 @@ const Footer = () => {
         </FooterDesc>
         <FooterLinkItems>
           <FooterLinkTittle>Contactanos</FooterLinkTittle>
-          <FooterLink to="/about">Contacto</FooterLink>
-          <FooterLink to="/Support">Soporte</FooterLink>
-          <FooterLink to="/Destinations">Cotizaciones</FooterLink>
-          <FooterLink to="/Sponsorships">Ubicaciones</FooterLink>
+          <FooterLink to="/Contacto">Contacto</FooterLink>
+          <FooterLink to="/Contacto">Soporte</FooterLink>
+          <FooterLink to="/Contacto">Cotizaciones</FooterLink>
+          <FooterLink to="/Contacto">Ubicaciones</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
       <FooterLinksWrapper>
         <FooterLinkItems>
           <FooterLinkTittle>Productos</FooterLinkTittle>
-          <FooterLink to="/">Materiales de Construccion</FooterLink>
-          <FooterLink to="/">Accesorios para el Hogar</FooterLink>
-          <FooterLink to="/">Proximos Productos</FooterLink>
+          <FooterLink to="/Materiales">Materiales de Construccion</FooterLink>
+          <FooterLink to="/Materiales">Accesorios para el Hogar</FooterLink>
+          <FooterLink to="/Materiales">Proximos Productos</FooterLink>
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTittle>Redes Sociales</FooterLinkTittle>
