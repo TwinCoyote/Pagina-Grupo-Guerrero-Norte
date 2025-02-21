@@ -9,7 +9,7 @@ const Contacto1 = () => {
         <p>Estemos en contacto, estamos aquí para ayudarte.</p>
       </div>
 
-      <div className="container">
+      <div className="container11">
         <div className="contactInfo">
           <div className="box">
             <div className="icon">📍</div>
