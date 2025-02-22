@@ -17,14 +17,14 @@
     "img": "../assets/images/vidrio.jpg",
     "alt": "Fabrica Proximante...",
     "name": "Trabajos Sobre Vidrio",
-    "to": "/Materiales",
+    "to": "/Servicios",
     "button": "Más Información"
   },
   {
     "img": "../assets/images/police.jpg",
     "alt": "Saltillo, Coahuila",
     "name": "Seguridad",
-    "to": "/Ventas",
+    "to": "/Servicios",
     "button": "Conoce Más"
   }
 ]

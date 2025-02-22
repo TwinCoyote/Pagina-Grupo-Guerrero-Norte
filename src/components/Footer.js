@@ -20,10 +20,10 @@ const Footer = () => {
       </FooterLinksWrapper>
       <FooterLinksWrapper>
         <FooterLinkItems>
-          <FooterLinkTittle>Productos</FooterLinkTittle>
-          <FooterLink to="/Materiales">Materiales de Construccion</FooterLink>
-          <FooterLink to="/Materiales">Accesorios para el Hogar</FooterLink>
-          <FooterLink to="/Materiales">Proximos Productos</FooterLink>
+          <FooterLinkTittle>Servicios</FooterLinkTittle>
+          <FooterLink to="/Servicios">Materiales de Construccion</FooterLink>
+          <FooterLink to="/Servicios">Accesorios para el Hogar</FooterLink>
+          <FooterLink to="/Servicios">Mas Servicios</FooterLink>
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTittle>Redes Sociales</FooterLinkTittle>
