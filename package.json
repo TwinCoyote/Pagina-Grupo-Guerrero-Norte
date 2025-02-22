@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "ajv": "^8.17.1",
     "babel-plugin-styled-components": "^2.1.4",
     "bootstrap": "^5.3.3",
     "gatsby": "^5.14.1",
