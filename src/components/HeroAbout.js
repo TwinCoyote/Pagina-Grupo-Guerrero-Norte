@@ -1,6 +1,5 @@
 import React from "react"
 import styled from "styled-components"
-import { Button } from "./Button"
 import Video from "../assets/videos/About.mp4"
 
 const HeroA = () => {

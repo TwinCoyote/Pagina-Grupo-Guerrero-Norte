@@ -1,109 +1,70 @@
 import React from "react"
-import styled from "styled-components"
-import EmailBg from "../assets/images/mail.jpg"
-import { Button } from "./Button"
+import "./Contacto.css"
 
-const Email = () => {
+const Contacto1 = () => {
   return (
-    <EmailContainer>
-      <EmailContent>
-        <h1>Accede a Ofertas Exclusivas</h1>
-        <p>
-          Regístrate con tu correo y sé el primero en enterarte sobre
-          promociones en departamentos, cristales y más productos.
-        </p>
-        <form action="#">
-          <FormWrap>
-            <label htmlFor="email">
-              <input type="email" placeholder="Ingresa Tu Correo" id="email" />
-            </label>
-            <Button
-              as="button"
-              type="submit"
-              primary="true"
-              round="true"
-              css={`
-                height: 48px;
-                @media screen and (max-width: 768px) {
-                  width: 100%;
-                  min-width: 350px;
-                }
-                @media screen and (max-width: 400px) {
-                  width: 100%;
-                  min-width: 250px;
-                }
-              `}
-            >
-              Suscribete
-            </Button>
-          </FormWrap>
-        </form>
-      </EmailContent>
-    </EmailContainer>
+    <section className="contact" id="contacto1">
+      <div className="content">
+        <h2>Contáctanos</h2>
+        <p>Estemos en contacto, estamos aquí para ayudarte.</p>
+      </div>
+
+      <div className="container11">
+        <div className="contactInfo">
+          <div className="box">
+            <div className="icon">📍</div>
+            <div className="text">
+              <h3>Dirección</h3>
+              <p>
+                calle manzanos <br /> Saltillo, Coahuila, 2345
+              </p>
+            </div>
+          </div>
+
+          <div className="box">
+            <div className="icon">📞</div>
+            <div className="text">
+              <h3>Teléfono</h3>
+              <p>844 3434 233</p>
+            </div>
+          </div>
+
+          <div className="box">
+            <div className="icon">📧</div>
+            <div className="text">
+              <h3>Correo</h3>
+              <p>contacto@grupogn.com</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="contactForm">
+          <form
+            action="mailto:contacto@grupogn.com"
+            method="POST"
+            encType="text/plain"
+          >
+            <h2>Enviar Mensaje</h2>
+            <div className="inputBox">
+              <input type="text" name="nombre" required />
+              <span>Nombre Completo</span>
+            </div>
+            <div className="inputBox">
+              <input type="email" name="correo" required />
+              <span>Correo</span>
+            </div>
+            <div className="inputBox">
+              <textarea name="mensaje" required></textarea>
+              <span>Escriba su Mensaje...</span>
+            </div>
+            <div className="inputBox">
+              <input type="submit" value="Enviar" />
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
   )
 }
 
-export default Email
-
-const EmailContainer = styled.div`
-  background: linear-gradient(
-      180deg,
-      rgba(0, 0, 0, 0.5) 0%,
-      rgba(0, 0, 0, 0.5) 35%,
-      rgba(0, 0, 0, 0.1) 100%
-    ),
-    url(${EmailBg}) no-repeat center;
-  background-size: cover;
-  height: 450px;
-  width: 100%;
-  padding: 5rem calc((100vw - 1300px) / 2);
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-`
-const EmailContent = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  h1 {
-    text-align: center;
-    margin-bottom: 1rem;
-    font-size: clamp(1rem, 5vw, 3rem);
-    padding: 0 1rem;
-  }
-
-  p {
-    text-align: center;
-    font-size: clamp(1rem, 2.5vw, 1.5rem);
-    padding: 0 1rem;
-    margin-bottom: 2rem;
-  }
-
-  form {
-    z-index: 10;
-  }
-`
-const FormWrap = styled.div`
-  input {
-    padding: 1rem 1.5rem;
-    outline: none;
-    width: 350px;
-    height: 48px;
-    border-radius: 50px;
-    border: none;
-    margin-right: 1rem;
-  }
-
-  @media screen and (max-width: 768px) {
-    display: flex;
-    flex-direction: column;
-    padding: 0 1rem;
-  
-  input {
-    margin-bottom: 1rem;
-    width: 100%;
-    margin-right: 0;
-  }
-`
+export default Contacto1

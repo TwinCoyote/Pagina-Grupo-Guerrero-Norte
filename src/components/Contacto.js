@@ -39,7 +39,11 @@ const Contacto1 = () => {
         </div>
 
         <div className="contactForm">
-          <form>
+          <form
+            action="mailto:contacto@grupogn.com"
+            method="POST"
+            encType="text/plain"
+          >
             <h2>Enviar Mensaje</h2>
             <div className="inputBox">
               <input type="text" name="nombre" required />
