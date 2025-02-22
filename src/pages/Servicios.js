@@ -1,6 +1,6 @@
 import React from "react"
 import "../components/Sales.css"
-import Layout from "../components/Layout.js"
+import Layout from "../components/Layout1.js"
 import HeroV from "../components/HeroVentas.js"
 import imagen1 from "../assets/images/aluminio.jpg"
 import imagen2 from "../assets/images/vidrios.jpeg"

@@ -1,7 +1,7 @@
 import * as React from "react"
 import Hero from "../components/Hero"
 import Trips from "../components/Trips"
-import Layout from "../components/layout"
+import Layout from "../components/Layout1"
 import Seo from "../components/seo"
 import Testimonials from "../components/Testimonials"
 import Stats from "../components/Stats"

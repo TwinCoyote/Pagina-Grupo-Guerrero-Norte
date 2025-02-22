@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import { Container, Row, Col, Card, Modal, Carousel } from "react-bootstrap"
 import departamentosData from "../data/departamentos.json"
-import Layout from "../components/layout"
+import Layout from "../components/Layout1"
 import HeroD from "../components/HeroDepa"
 
 const DepartamentosList = ({ data }) => {
