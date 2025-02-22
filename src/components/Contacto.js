@@ -39,25 +39,23 @@ const Contacto1 = () => {
         </div>
 
         <div className="contactForm">
-          <form
-            action="mailto:contacto@grupogn.com"
-            method="POST"
-            encType="text/plain"
-          >
+          <form action="https://formspree.io/f/xgvoqyqq" method="POST">
             <h2>Enviar Mensaje</h2>
-            <div className="inputBox">
+
+            <div class="inputBox">
               <input type="text" name="nombre" required />
               <span>Nombre Completo</span>
             </div>
-            <div className="inputBox">
+            <div class="inputBox">
               <input type="email" name="correo" required />
               <span>Correo</span>
             </div>
-            <div className="inputBox">
+            <div class="inputBox">
               <textarea name="mensaje" required></textarea>
               <span>Escriba su Mensaje...</span>
             </div>
-            <div className="inputBox">
+
+            <div class="inputBox">
               <input type="submit" value="Enviar" />
             </div>
           </form>
