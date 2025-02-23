@@ -27,10 +27,28 @@ const Footer = () => {
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTittle>Redes Sociales</FooterLinkTittle>
-          <FooterLink to="/">WhatsApp</FooterLink>
-          <FooterLink to="/">Facebook</FooterLink>
-          <FooterLink to="/">TikTok</FooterLink>
-          <FooterLink to="/">Instagram</FooterLink>
+          <FooterLink href="https://wa.me/8443711982" target="_blank">
+            WhatsApp
+          </FooterLink>
+          <FooterLink
+            href="https://www.facebook.com/profile.php?id=61573192391389"
+            target="_blank"
+          >
+            Facebook
+          </FooterLink>
+          <FooterLink
+            href="https://www.tiktok.com/@grupoguerreronorte"
+            target="_blank"
+          >
+            TikTok
+          </FooterLink>
+
+          <FooterLink href="https://x.com/GGuerrero_Norte" target="_blank">
+            Twitter
+          </FooterLink>
+          <FooterLink href="https://www.airbnb.mx/" target="_blank">
+            Airbnb
+          </FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
     </FooterContainer>
