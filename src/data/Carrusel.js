@@ -6,8 +6,8 @@ import random from "../assets/images/random.jpg"
 export const departamentos = [
   {
     id: 1,
-    nombre: "Departamento 1",
-    descripcionCorta: "Departamento céntrico con excelente vista.",
+    nombre: "Departamento 3",
+    descripcionCorta: "Departamento Disponible - Ahora",
     descripcionLarga:
       "Este departamento cuenta con 3 habitaciones, 2 baños, cocina integral, sala amplia y balcón con vista panorámica.",
     ubicacion: "Calle 123, Ciudad",

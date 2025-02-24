@@ -1,17 +1,55 @@
 [
   {
+    "id": "depa",
+    "titulo": "Departamento 3",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": " Situados en Blvd. Morelos #4072, en la Colonia Ampliación Morelos",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
+    "telefono": "123-456-7890",
+    "detalles": ", dos dormitorios y una terraza con vistas panorámicas de la ciudad."
+  },
+  {
     "id": "depa1",
-    "titulo": "Departamento en el Centro",
-    "descripcion": "Este hermoso departamento está ubicado en el corazón de la ciudad, con vistas a la plaza principal.",
-    "ubicacion": "Centro de la ciudad, Calle 123",
+    "titulo": "Departamento 2",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": "Departamento Ocupado",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
     "telefono": "123-456-7890",
     "detalles": ", dos dormitorios y una terraza con vistas panorámicas de la ciudad."
   },
   {
     "id": "depa2",
-    "titulo": "Departamento Frente al Mar",
-    "descripcion": "Un lugar tranquilo con vistas impresionantes al océano y a poca distancia de la playa.",
-    "ubicacion": "Playa del Sol, Avenida Marítima",
+    "titulo": "Departamento 3",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": "Departamento Ocupado",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
+    "telefono": "098-765-4321",
+    "detalles": "Este departamento tiene acceso directo a la playa, una cocina moderna, tres dormitorios y una piscina infinita con vistas al mar."
+  },
+  {
+    "id": "depa3",
+    "titulo": "Departamento 4",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": "Departamento Ocupado",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
+    "telefono": "098-765-4321",
+    "detalles": "Este departamento tiene acceso directo a la playa, una cocina moderna, tres dormitorios y una piscina infinita con vistas al mar."
+  },
+  {
+    "id": "depa4",
+    "titulo": "Departamento 5",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": "Departamento Ocupado",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
+    "telefono": "098-765-4321",
+    "detalles": "Este departamento tiene acceso directo a la playa, una cocina moderna, tres dormitorios y una piscina infinita con vistas al mar."
+  },
+  {
+    "id": "depa5",
+    "titulo": "Departamento 6",
+    "descripcion2": "El departamento ofrece diversas opciones de mobiliario que se adaptan a tus necesidades, ya sea amueblado, semiamueblado o sin amueblar. La seguridad es una prioridad, por lo que cuenta con un sistema de cámaras de vigilancia las 24/7. El Departamento 3, podrás disfrutar de una amplia sala equipada con una televisión de 70 pulgadas, ideal para tus momentos de descanso. La cocina está completamente equipada, con horno de microondas, estufa, refrigerador y una barra desayunadora con campana extractora, facilitando la preparación de tus alimentos. Además, contarás con un área de lavandería que incluye lavadora y secadora. Para tu confort, la sala dispone de aire acondicionado, lo que te permitirá mantener un ambiente agradable en todo momento. Entre las diferentes amenidades tendrás acceso a Internet WiFi de alta velocidad Los servicios de agua, luz y WiFi están incluidos. El Departamento 3 está distribuido de manera funcional, con tres recámaras, cada una equipada con persianas eléctricas, cama matrimonial y clóset. También dispone de dos baños completos, ofreciendo mayor comodidad.",
+    "descripcion": "Departamento Ocupado",
+    "ubicacion": "Blvd. Morelos #4072, Colonia Ampliacion Morelos",
     "telefono": "098-765-4321",
     "detalles": "Este departamento tiene acceso directo a la playa, una cocina moderna, tres dormitorios y una piscina infinita con vistas al mar."
   }

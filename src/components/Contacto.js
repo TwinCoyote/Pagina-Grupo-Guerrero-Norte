@@ -39,7 +39,7 @@ const Contacto1 = () => {
         </div>
 
         <div className="contactForm">
-          <form action="https://formspree.io/f/xgvoqyqq" method="POST">
+          <form action="https://formspree.io/f/xbldvyje" method="POST">
             <h2>Enviar Mensaje</h2>
 
             <div class="inputBox">
